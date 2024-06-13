@@ -1,2 +1,2 @@
-#!/bin/bashy
-find . -maxdepth 1 -name '*.html' -exec cp -u {} ../ \;
+#!/bin/bash
+#find . -name '*.html' -exec rsync -ru {} ../ \;
