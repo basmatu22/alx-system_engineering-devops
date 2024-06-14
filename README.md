@@ -1,22 +1,16 @@
-# Project Name
+# Shell Scripts for XYZ Project
 
-This project contains various scripts for different purposes.
+This repository contains shell scripts related to XYZ project.
 
 ## Scripts
 
-### 0-switch_to_betty
-**Description**: This script switches the current user to the user `betty`.
-**Usage**: `./0-switch_to_betty`
+1. **1-who_am_i.sh**
+   - Description: Prints the effective username of the current user.
+   - Usage: `./1-who_am_i.sh`
 
-### 1-who_am_i
-**Description**: This script prints the effective username of the current user.
-**Usage**: `./1-who_am_i`
+2. **2-some_other_script.sh**
+   - Description: Does something else.
+   - Usage: `./2-some_other_script.sh`
 
-### 8-James_Bond
-**Description**: This script sets the permission of the file `hello` such that the owner has no permissions, the group has no permissions, and others have all permissions.
-**Usage**: `./8-James_Bond`
-
-### 9-John_Doe
-**Description**: This script sets the mode of the file `hello` to `-rwxr-x-wx`.
-**Usage**: `./9-John_Doe`
+Feel free to customize this template to match your project. Happy documenting! 😊
 
