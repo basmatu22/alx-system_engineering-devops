@@ -1,2 +1,2 @@
-# alx-zero_day Repository
-This repository contains projects and exercises from the ALX Zero Day projects.
+# Script: 2-groups
+This script prints all the groups the current user is part of.
