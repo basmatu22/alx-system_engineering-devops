@@ -1,1 +1,2 @@
-This repository contains scripts related to system engineering and DevOps.
+# Script: 2-groups
+This script prints all the groups the current user is part of.
